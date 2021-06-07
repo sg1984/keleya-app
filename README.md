@@ -1,16 +1,11 @@
-# keleya_app
+# keleya App
 
-Keleya App chalenge app
+Keleya App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+After cloning the project and opening in your favourite IDE, please check the `lib/servces/api.dart` file to confirm that the variable `SERVER_URL` has the same address as the Keleya Server application, otherwhise things might get ugly. Not that ugly, the app won't be able to connect with the server because they are in different address, but you get the idea, right?
 
-A few resources to get you started if this is your first Flutter project:
+If you see any problem, please reach out so I can fix it ASAP.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks!
